@@ -1,3 +1,3 @@
 var theMaximumAchievableX = function(num, t) {
-    return num+t*2
+    return num+t+t
 };
