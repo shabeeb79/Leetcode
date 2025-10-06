@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shabeeb79/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Array
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/shabeeb79/Leetcode/tree/master/2048-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/shabeeb79/Leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
