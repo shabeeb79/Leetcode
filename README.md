@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/shabeeb79/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/shabeeb79/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [3194-find-words-containing-character](https://github.com/shabeeb79/Leetcode/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/shabeeb79/Leetcode/tree/master/1635-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/shabeeb79/Leetcode/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
