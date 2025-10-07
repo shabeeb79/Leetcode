@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/shabeeb79/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shabeeb79/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2383-add-two-integers](https://github.com/shabeeb79/Leetcode/tree/master/2383-add-two-integers) |
 ## Greedy
 |  |
 | ------- |
