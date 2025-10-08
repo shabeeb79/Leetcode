@@ -38,5 +38,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/shabeeb79/Leetcode/tree/master/0344-reverse-string) |
 | [3194-find-words-containing-character](https://github.com/shabeeb79/Leetcode/tree/master/3194-find-words-containing-character) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/shabeeb79/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
