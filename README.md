@@ -31,15 +31,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/shabeeb79/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/shabeeb79/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/shabeeb79/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/shabeeb79/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shabeeb79/Leetcode/tree/master/0344-reverse-string) |
 | [3194-find-words-containing-character](https://github.com/shabeeb79/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/shabeeb79/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
