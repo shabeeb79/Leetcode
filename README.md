@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/shabeeb79/Leetcode/tree/master/0344-reverse-string) |
+| [0742-to-lower-case](https://github.com/shabeeb79/Leetcode/tree/master/0742-to-lower-case) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shabeeb79/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2502-sort-the-people](https://github.com/shabeeb79/Leetcode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/shabeeb79/Leetcode/tree/master/3194-find-words-containing-character) |
