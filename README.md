@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/shabeeb79/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shabeeb79/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2502-sort-the-people](https://github.com/shabeeb79/Leetcode/tree/master/2502-sort-the-people) |
 | [3778-transform-array-by-parity](https://github.com/shabeeb79/Leetcode/tree/master/3778-transform-array-by-parity) |
 ## Array
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/shabeeb79/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shabeeb79/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shabeeb79/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2502-sort-the-people](https://github.com/shabeeb79/Leetcode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/shabeeb79/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3778-transform-array-by-parity](https://github.com/shabeeb79/Leetcode/tree/master/3778-transform-array-by-parity) |
 | [4008-restore-finishing-order](https://github.com/shabeeb79/Leetcode/tree/master/4008-restore-finishing-order) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/shabeeb79/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2502-sort-the-people](https://github.com/shabeeb79/Leetcode/tree/master/2502-sort-the-people) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shabeeb79/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4008-restore-finishing-order](https://github.com/shabeeb79/Leetcode/tree/master/4008-restore-finishing-order) |
 ## Counting
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/shabeeb79/Leetcode/tree/master/0344-reverse-string) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/shabeeb79/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2502-sort-the-people](https://github.com/shabeeb79/Leetcode/tree/master/2502-sort-the-people) |
 | [3194-find-words-containing-character](https://github.com/shabeeb79/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/shabeeb79/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
