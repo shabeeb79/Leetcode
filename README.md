@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shabeeb79/Leetcode/tree/master/0027-remove-element) |
 | [1635-number-of-good-pairs](https://github.com/shabeeb79/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/shabeeb79/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/shabeeb79/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -49,5 +50,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shabeeb79/Leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/shabeeb79/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
