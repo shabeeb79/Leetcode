@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shabeeb79/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shabeeb79/Leetcode/tree/master/0027-remove-element) |
 | [0941-sort-array-by-parity](https://github.com/shabeeb79/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1580-shuffle-the-array](https://github.com/shabeeb79/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shabeeb79/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shabeeb79/Leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/shabeeb79/Leetcode/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/shabeeb79/Leetcode/tree/master/0941-sort-array-by-parity) |
