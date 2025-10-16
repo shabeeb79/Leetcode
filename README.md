@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/shabeeb79/Leetcode/tree/master/0326-power-of-three) |
 | [1635-number-of-good-pairs](https://github.com/shabeeb79/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/shabeeb79/Leetcode/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2383-add-two-integers](https://github.com/shabeeb79/Leetcode/tree/master/2383-add-two-integers) |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shabeeb79/Leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/shabeeb79/Leetcode/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/shabeeb79/Leetcode/tree/master/0941-sort-array-by-parity) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/shabeeb79/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
