@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shabeeb79/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/shabeeb79/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/shabeeb79/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shabeeb79/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/shabeeb79/Leetcode/tree/master/1894-merge-strings-alternately) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shabeeb79/Leetcode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shabeeb79/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
