@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0909-stone-game](https://github.com/shabeeb79/Leetcode/tree/master/0909-stone-game) |
 | [2812-find-the-maximum-achievable-number](https://github.com/shabeeb79/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shabeeb79/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/shabeeb79/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shabeeb79/Leetcode/tree/master/0075-sort-colors) |
+| [0909-stone-game](https://github.com/shabeeb79/Leetcode/tree/master/0909-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shabeeb79/Leetcode/tree/master/0053-maximum-subarray) |
+| [0909-stone-game](https://github.com/shabeeb79/Leetcode/tree/master/0909-stone-game) |
 ## Linked List
 |  |
 | ------- |
@@ -42,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shabeeb79/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/shabeeb79/Leetcode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
