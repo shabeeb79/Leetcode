@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shabeeb79/Leetcode/tree/master/0075-sort-colors) |
 | [0909-stone-game](https://github.com/shabeeb79/Leetcode/tree/master/0909-stone-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shabeeb79/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [4058-compute-alternating-sum](https://github.com/shabeeb79/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shabeeb79/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+## Simulation
+|  |
+| ------- |
+| [4058-compute-alternating-sum](https://github.com/shabeeb79/Leetcode/tree/master/4058-compute-alternating-sum) |
 <!---LeetCode Topics End-->
