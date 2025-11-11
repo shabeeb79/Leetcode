@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/shabeeb79/Leetcode/tree/master/0909-stone-game) |
+| [2083-three-divisors](https://github.com/shabeeb79/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shabeeb79/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2556-convert-the-temperature](https://github.com/shabeeb79/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/shabeeb79/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
@@ -86,5 +87,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/shabeeb79/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shabeeb79/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/shabeeb79/Leetcode/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
