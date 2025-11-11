@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shabeeb79/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/shabeeb79/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shabeeb79/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shabeeb79/Leetcode/tree/master/0229-majority-element-ii) |
 | [0909-stone-game](https://github.com/shabeeb79/Leetcode/tree/master/0909-stone-game) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shabeeb79/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shabeeb79/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/shabeeb79/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shabeeb79/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shabeeb79/Leetcode/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shabeeb79/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shabeeb79/Leetcode/tree/master/0229-majority-element-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shabeeb79/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shabeeb79/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
@@ -76,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shabeeb79/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/shabeeb79/Leetcode/tree/master/0229-majority-element-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shabeeb79/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
