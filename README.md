@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/shabeeb79/Leetcode/tree/master/0909-stone-game) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/shabeeb79/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2556-convert-the-temperature](https://github.com/shabeeb79/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2812-find-the-maximum-achievable-number](https://github.com/shabeeb79/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shabeeb79/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/shabeeb79/Leetcode/tree/master/0229-majority-element-ii) |
 | [0909-stone-game](https://github.com/shabeeb79/Leetcode/tree/master/0909-stone-game) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shabeeb79/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/shabeeb79/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shabeeb79/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4058-compute-alternating-sum](https://github.com/shabeeb79/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Sorting
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shabeeb79/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shabeeb79/Leetcode/tree/master/0229-majority-element-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shabeeb79/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/shabeeb79/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
