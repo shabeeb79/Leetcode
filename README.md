@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/shabeeb79/Leetcode/tree/master/0909-stone-game) |
+| [1806-count-of-matches-in-tournament](https://github.com/shabeeb79/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [2083-three-divisors](https://github.com/shabeeb79/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shabeeb79/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2556-convert-the-temperature](https://github.com/shabeeb79/Leetcode/tree/master/2556-convert-the-temperature) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/shabeeb79/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
 | [4058-compute-alternating-sum](https://github.com/shabeeb79/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
