@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/shabeeb79/Leetcode/tree/master/0909-stone-game) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shabeeb79/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shabeeb79/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3226-minimum-number-game](https://github.com/shabeeb79/Leetcode/tree/master/3226-minimum-number-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shabeeb79/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4058-compute-alternating-sum](https://github.com/shabeeb79/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Sorting
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shabeeb79/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shabeeb79/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shabeeb79/Leetcode/tree/master/0229-majority-element-ii) |
+| [3226-minimum-number-game](https://github.com/shabeeb79/Leetcode/tree/master/3226-minimum-number-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/shabeeb79/Leetcode/tree/master/1806-count-of-matches-in-tournament) |
+| [3226-minimum-number-game](https://github.com/shabeeb79/Leetcode/tree/master/3226-minimum-number-game) |
 | [4058-compute-alternating-sum](https://github.com/shabeeb79/Leetcode/tree/master/4058-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/shabeeb79/Leetcode/tree/master/2083-three-divisors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3226-minimum-number-game](https://github.com/shabeeb79/Leetcode/tree/master/3226-minimum-number-game) |
 <!---LeetCode Topics End-->
