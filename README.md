@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shabeeb79/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shabeeb79/Leetcode/tree/master/0229-majority-element-ii) |
 | [0909-stone-game](https://github.com/shabeeb79/Leetcode/tree/master/0909-stone-game) |
+| [1672-richest-customer-wealth](https://github.com/shabeeb79/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shabeeb79/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shabeeb79/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3226-minimum-number-game](https://github.com/shabeeb79/Leetcode/tree/master/3226-minimum-number-game) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/shabeeb79/Leetcode/tree/master/0175-combine-two-tables) |
 | [0577-employee-bonus](https://github.com/shabeeb79/Leetcode/tree/master/0577-employee-bonus) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/shabeeb79/Leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
