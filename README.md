@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/shabeeb79/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shabeeb79/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shabeeb79/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/shabeeb79/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3226-minimum-number-game](https://github.com/shabeeb79/Leetcode/tree/master/3226-minimum-number-game) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shabeeb79/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/shabeeb79/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
