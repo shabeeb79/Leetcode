@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shabeeb79/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shabeeb79/Leetcode/tree/master/0229-majority-element-ii) |
 | [0909-stone-game](https://github.com/shabeeb79/Leetcode/tree/master/0909-stone-game) |
+| [1470-shuffle-the-array](https://github.com/shabeeb79/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/shabeeb79/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shabeeb79/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shabeeb79/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
