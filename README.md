@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/shabeeb79/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shabeeb79/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/shabeeb79/Leetcode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/shabeeb79/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/shabeeb79/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/shabeeb79/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2556-convert-the-temperature](https://github.com/shabeeb79/Leetcode/tree/master/2556-convert-the-temperature) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/shabeeb79/Leetcode/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/shabeeb79/Leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/shabeeb79/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Enumeration
 |  |
 | ------- |
