@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shabeeb79/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0709-to-lower-case](https://github.com/shabeeb79/Leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/shabeeb79/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/shabeeb79/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1205-defanging-an-ip-address](https://github.com/shabeeb79/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shabeeb79/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shabeeb79/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/shabeeb79/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shabeeb79/Leetcode/tree/master/0229-majority-element-ii) |
+| [0771-jewels-and-stones](https://github.com/shabeeb79/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/shabeeb79/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2418-sort-the-people](https://github.com/shabeeb79/Leetcode/tree/master/2418-sort-the-people) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/shabeeb79/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
